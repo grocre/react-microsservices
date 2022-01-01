@@ -1,17 +1,25 @@
 .App {
   height: 100%;
   width: 100%;
-  text-align: center;
-  background-color: ;
+  background-color: #1a1c20;
 }
 
 .login_div {
+  display: flex;
   margin: auto;
   height: 20vh;
   width: 20vw;
-  background-color: aqua;
+  background-color: #111825;
+  border: solid 1px grey;
+  border-radius: 2%;
+  justify-content: center;
 }
 
 .login_div span {
+  display: block;
+  color: white;
+}
+
+.login_div input {
   display: block;
 }
