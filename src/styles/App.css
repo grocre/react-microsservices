@@ -1,0 +1,17 @@
+.App {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: ;
+}
+
+.login_div {
+  margin: auto;
+  height: 20vh;
+  width: 20vw;
+  background-color: aqua;
+}
+
+.login_div span {
+  display: block;
+}
